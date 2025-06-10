@@ -99,6 +99,12 @@ vivado &
 ### 📊 Simulation Waveform
 ![Waveform](https://github.com/FabioKoshy/Room-Occupancy-Monitor/blob/main/Projectwf.png)
 
+### 🔩 Simulation and Synthesis Results
+![Run-1](https://github.com/FabioKoshy/Room-Occupancy-Monitor/blob/main/Simulation%20and%20Synthesis%20Results.png)
+
+### 📊 Vivado Simulation Run
+![Run-2](https://github.com/FabioKoshy/Room-Occupancy-Monitor/blob/main/Vivado%20Simulation%20Run.png)
+
 ---
 
 ## ⚙️ Hardware Used
